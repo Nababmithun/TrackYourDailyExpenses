@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "373458296777",
+    "firebase_url": "https://trackyourdailyexpenses.firebaseio.com",
+    "project_id": "trackyourdailyexpenses",
+    "storage_bucket": "trackyourdailyexpenses.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373458296777:android:16e396fa6e837620c89218",
+        "android_client_info": {
+          "package_name": "com.androidlime.trackyourdailyexpenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373458296777-sp3ho5id4d8566pnt7b6tnruboftbt57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidlime.trackyourdailyexpenses",
+            "certificate_hash": "1e47a2230591464c385048a7b73ab93a7c156944"
+          }
+        },
+        {
+          "client_id": "373458296777-niivnk6478e5giuhsljomdo382c0no0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTIo7NWJrgiwlzV1tZfrhYIySKkVswCAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373458296777-niivnk6478e5giuhsljomdo382c0no0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
